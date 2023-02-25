@@ -1,0 +1,57 @@
+# wet_peex v1.0
+# Peek into Textpattern using XML
+# Robert Wetzlmayr
+# http://awasteofwords.com/article/wet_peex-peek-into-textpattern-using-xml
+
+# ......................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# ......................................................................
+
+H4sIAAAAAAAAA71Z63PbNhL/LP4VKOsJJZ9NSX7EKfUI2yaXZiaZyVx8r7npaWASEnEmCRYA
+Latp/vfbBUCKVuVX5+Y+RCaBxb73t+CGRuNR9EVFF5F/w6TiovQnKjqN/HE4wqeXkU9rnQmJ
+L2N4+4u4YlKTvzP9a17QjV0fNVSLWnJcuQAOmdZVNBzSNVWaieVayFSFiSiGVGqe5Gy4ZnpR
+MXZ7DD/Xx7zU4lizW11RrZksj2vFy9XxbZEbEePIT5lKJK90oyQsfYKTBE+Sy+1JYk6Sf3z8
+gGRnka83FfMnPDq1ryUtGO68ivxGBUeYsbyyhp6DAb1pdjp/RMJ0CDSe15tW86nSUpSrecNz
+OnQLBO1TZCnkHR7i6j8s0YpQRaY0AcpNQTTXOZv5b281KxW/yhn5SOV1XZEPtFzVdMX8uRHq
+6OdEMiVqmTAVToeVUSQ7m9cKKCNQ7exR1TjIJ1c0uWZlSqq8XvGSrDmEstaElhswlEk0n8kl
+TVhI3muS0TLNmSI/XV5+Iu/eXoIOv9RMoSXAQ7Iq57CLTGABfYRKVqJUrNWxml8KAofkhkwT
+kbKOYub1iCjUhzasCbhfZ6y1luQioZoBhXYMXLJtYFtxzUKdp8NOMr3eEdDRpNkhdZlCBWgw
+QqEwxZyGFZWQMMBFRc2pOp/Db87nVriN5ALTzPGPnFou1Vuz7KoCakjinVW0aCXkZmc55+X1
+zhIvIL47a0veignJX0F5UcK/pbOEYphvaF4zk4boy72ON/FsDT4iLFyFz/Tw7K7N0yG4yet1
+vKWE1K2bPsMLgaoGFsYju8Qpl3dpYcF6z1rJIM0gQ523VdLYgVbCK2QRFiqKJIA/aJJoqBFO
+uuT4/jv6PeozKpOsVQoruqY5scsPmSKWS8W2lv+ZQ7I5EHjx7auT8cVEoUxeAjeoQiykjeMy
+HdqM28m7nBd8y/AjveVFXbS4IpmuZclSm+bfE0WLKmdNSblc/mOxffHt6asJOmlWCQD31LxD
+ZGbbCLgyh0SzCADGkIIpRCYEHUlN3BTLl4TdVjktqYbcD8nfOFsTV+U2KpryXIV7Cwo5YS6L
+ErgntZSs1PDE0dACngEhrDcI1mYXIj9wiDWIQMh6w1WSU15gtFvIvMyANwIiNCajMMsZVcDQ
+wIStIEoyyZazptOt1+twVdahkCsIG/BXTA1XVR7qW+3P35U1ecdKJiG8n+orICBOCYDzBpA8
+4joRmmea3PnZeeR7fEn6sb6tWiQmsxkJaFrwMhiQL17vYJ0BFs7IqlL9oAlXMJh4PTzKywWV
+km76huyI2JfAOTM4IoGDJHxscAifEXzwr0EcfECYCQYDI7PXyLFsUViP3XLdx6evhOWK8WX/
+G1ZU2kl254ZDDBYXkGsbcs3zHNyKDgXJsJsxCh7uB9hfhuNwTM5GI/IDTZvMNVa1VJ811bWK
+9hNttfG+et6yLo2RZEdvD3QClVZMm3RQtOSa/8ogCwvQSRQFHNk2AQ+4akkT3Qdf075zpSlF
+dJCtcuNSqA/8C3Vh3CotgQUK9OEEMu3AHITAQWQBn/up+JxTlfXt+qAJ4Ajj7daMC9tzJyNj
+HnCykvewshtWHjI7AI3IN5A/iHiB44drmFKw4hiCSyrI+jrldeH11hlEvh+LqwVg5AKyhpZ9
+YEmAikHmAeUNFzUgWK2r2jRsqhTeFNcsz4+hkgsIMkCB10buRwHJXOrjSyjNiCDcDOGyNyFJ
+RiXoO6v18viViWNz4i0UAFwBIhKEKSRpP0DHaijc/uBPL0dOG3ojOKSTEGRpcqHUpK6QXHVE
+0yRjx6iAFHkEyvMbIDCyWJIJEkxfgyrE3Yhn5jJMoFQFdoeZbzTzyet5EJbbIx3AtBteT8Et
+KMlcmhk/J4AhpC28CFZMSFyN2NxwVQJBcU0F4jKejTEuPVdXdwkWEEdagX9npA26YzXZYeRf
+4g2TyJxfgx475wNsjj+IdHPfvm9V8PDX2gbZhHk+wBWrk7WQp9Y4lA37C/VLjma8fwOxw1yz
+el1JRq8nXuec7Sd7z34yW4+cB+N1IfYz+AB7H8VjHMwVfO956zp7OoTMcwqZKrqPW4Or+/h9
+tnvP5NjA83gvzx+b3T/I9eRBrifPtd6A837jzdYz+dmPzL38vjdbbX492W6Ad4CI/To2m4tE
+1AAjT+WcsiWtc/28HG7r6sAKm0EfWjIruR90sAXEt8WNeMdXpZBwkbGQQqzLDSO3pBpeUqzh
+cnB4BFcYfrtA3ATioupbpQb4kWAfsU3dleg3CGIuxeRqQ7Zm2U7kGpJrQq7n+APrEgRiQO6F
+wCsXXGPg8hcGwwpvQSobarqy35RShVVWBfaMQVV/2hphPDELrHsCJwjeXcO1asC77cRz30Bz
+rwedh1GDUy0nsPOAthir8VqHvS/TRa4qlnCamxZkw9fr9aG3rRZ4g4V7Vz8Y/rsffhkdnZ1/
+HYSHB0NVB0fBwTg4ash7WvKiD9/XvFqAZQoE/ytAUF2ggODnwaChHDh0dv3D6Ye9I7QkOgym
+PIUFZPH+TfAzvA/NQpfCABasWZBemFcj1OAVCMRTDVH3oMMmWN013Rx38OQYbImtX7FvtXc7
+oG6BB+jJb7+RPVsnaLxzu7Ma1XDQw5nq6IcadjY3JGc3LIdO7N+nblcBVLg5+QSmJ48yPXmA
+qe5sOCOch756dy21zW3e3F7+eVwcp+SniEcKixrEufKzslrqO8E22YopYZ9MbJu1LqFrhC55
+XOuzGbTd6h6omCzwug/LzWMtc/CCVWa72xyC1U7KOgTbpnOzCQ6xBW2BDiHLfazMthch/Cg4
+PIRfckhiLVJB3jffcOYrUJivRUCO5uvWkA69fW32bkPrLNmPmEn7br5lJh2V3ffpvBS6+w05
+HTYblrpF7C7QN4vNzRmC11ydDffSRqpzRZzAN4kbQ+LccSHp2sweT0YXsHIakkdGj5532HzI
+HD4+YoQD/fvHioPOINHzsrOQ2BniHRn/31mh57UzwrjRIX7OYDB+6lQjBlnPmQKCU0jcmfnF
+EYldIoOCsctFfGySEJ+xevCvyUJ8wPSLnzar2zpg74DuyZY285sYLcAGHu9O4HADribxg9O2
+GL4S44dHbDHejeL752pGAXOliO+foRk/m/Ye352XBb+flCGtaf3xQ5Ow303BPO/ZznvRHXy5
+oVcM2fq/G3W12fTM+Zat3P2jLVTw0YmWf/+Qyo+eMOUK3X8eFem5eTqJ/PHo9Dt2loxHYzai
+342WZyfnF2cX46v05ej86hTpvv4XhOzdiIQaAAA=
