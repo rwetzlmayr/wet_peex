@@ -1,7 +1,7 @@
 # wet_peex v1.0
 # Peek into Textpattern using XML
 # Robert Wetzlmayr
-# http://awasteofwords.com/article/wet_peex-peek-into-textpattern-using-xml
+# https://wetzlmayr.at/
 
 # ......................................................................
 # This is a plugin for Textpattern - http://textpattern.com/

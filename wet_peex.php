@@ -1,7 +1,7 @@
 <?php
 $plugin['version'] = '1.0';
 $plugin['author'] = 'Robert Wetzlmayr';
-$plugin['author_uri'] = 'http://awasteofwords.com/article/wet_peex-peek-into-textpattern-using-xml';
+$plugin['author_uri'] = 'https://wetzlmayr.at/';
 $plugin['description'] = 'Peek into Textpattern using XML';
 $plugin['type'] = 3;
 
