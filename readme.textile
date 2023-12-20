@@ -1,0 +1,28 @@
+h3. Peek into Textpattern using XML
+
+*wet_peex* peeks for Textpattern objects as XML(Extensible Markup Language) resources.
+
+h4. usage:
+
+*wet_peex* is a backend plugin without any user interface. It handles HTTP GET requests and replies with an XML response.
+
+To query @wet_peex@, send a request to the resource located at @http://yoursite.tld/textpattern?wet_peex@.
+
+wet_peex understands these query parameters:
+
+* @object_type@: @article@, @section@, @category@, @link@, @image@, @file@. Use one of these as a value for the @wet_peex@ GET parameter, e.g. @http://yoursite.tld/textpattern?wet_peex=article@
+* @sort@: Sort criterion
+* @dir@: Sort direction. Use either @asc@ for ascending sort order, or @desc@ for descending sort order
+* @search@: Textual search criterion
+* @offset@: First object's ordinal in reply
+* @limit@: Maximum objects returned
+
+A sample request:
+
+@http://yoursite.tld/textpattern?wet_peex=article&sort=posted&dir=asc@
+
+The XML reply message is rather self explanatory. View source for details. @article@ is the only currently implemented object type.
+
+h4. Licence and Disclaimer
+
+This plug-in is released under the "Gnu General Public Licence":http://www.gnu.org/licenses/gpl.txt.
