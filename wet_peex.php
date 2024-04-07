@@ -1,5 +1,5 @@
 <?php
-$plugin['version'] = '1.0';
+$plugin['version'] = '1.1';
 $plugin['author'] = 'Robert Wetzlmayr';
 $plugin['author_uri'] = 'https://wetzlmayr.at/';
 $plugin['description'] = 'Peek into Textpattern using XML';
@@ -35,7 +35,7 @@ A sample request:
 
 @http://yoursite.tld/textpattern?wet_peex=article&sort=posted&dir=asc@
 
-The XML reply message is rather self explanatory. View source for details. @article@ is the only currently implemented object type.
+The XML reply message is rather self-explanatory. View source for details. @article@ is the only currently implemented object type.
 
 h4. Licence and Disclaimer
 
@@ -78,8 +78,12 @@ function wet_peex($what)
 	}
 
 	// preludium
-	while(@ob_end_clean()); // eat previous output to assert well-formed XML
-	header('Content-Type: text/xml; charset=utf-8');
+	// eat previous output to assert well-formed XML
+    while (ob_get_length() > 0) {
+        ob_end_clean();
+    }
+
+    header('Content-Type: text/xml; charset=utf-8');
 	header('Expires: '.date('r', time()+60)); // avoid too frequent updates
 	header('Cache-Control: private');
 	echo '<?xml version="1.0" encoding="utf-8" ?>'.n;
@@ -190,4 +194,3 @@ function wet_peex($what)
 
 # --- END PLUGIN CODE ---
 
-?>
